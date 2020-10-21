@@ -1,3 +1,117 @@
 h1 {
   color: salmon;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  padding: 5px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+h4 {
+  text-align: center;
+  font-weight: 100;
+  color: salmon;
+  margin-bottom: 30px;
+  margin-top: 5px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.parent {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.child1 {
+  background-image: url("../img/san-francisco.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.child2 {
+  background-image: url("../img/new-york.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.child3 {
+  background-image: url("../img/london.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.child4 {
+  background-image: url("../img/napa.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.child5 {
+  background-image: url("../img/sonoma.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.child6 {
+  background-image: url("../img/san-francisco-2.jpg");
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.button1 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  background-color: white;
 }
